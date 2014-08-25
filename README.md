@@ -1,4 +1,4 @@
-Multi-Platform-Vision-System-
-=============================
+Multi-Platform-Vision-System
+============================
 
 Code repository for paper id: 
