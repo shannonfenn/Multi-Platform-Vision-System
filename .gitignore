@@ -19,3 +19,31 @@
 *.exe
 *.out
 *.app
+
+# Other
+*.bin
+nubotbin
+Build/
+*.xcodeproj
+*.build
+.*
+
+/Documentation
+/Doc
+/html
+/latex
+Doxyfile
+Doxyfile.bak
+Autoconfig/*
+*.old*
+*debug.log
+*error.log
+*parameters.wp
+
+
+# Data file formats
+*.lut
+*.nif
+*.nul
+*.strm
+
