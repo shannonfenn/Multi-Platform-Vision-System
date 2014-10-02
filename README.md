@@ -9,7 +9,7 @@ Image stream files can be found at: [http://multiplatformvisionsystem.sourceforg
 
 **Platforms**
 
-There are three separate versions of system. Two are targetted at the Darwin-OP platform ([www.robotis.com/xe/darwin_en](www.robotis.com/xe/darwin_en)) and the third at the Raspberry-Pi platform ([www.raspberrypi.org/](www.raspberrypi.org/)). 
+There are three separate versions of system. Two are targetted at the [Darwin-OP platform](www.robotis.com/xe/darwin_en) and the third at the [Raspberry-Pi platform](www.raspberrypi.org/). 
 
 **Compiling and Running**
 
